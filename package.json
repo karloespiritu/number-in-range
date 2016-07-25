@@ -1,6 +1,6 @@
 {
   "name": "number-in-range",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Test if a number is in range",
   "main": "index.js",
   "scripts": {

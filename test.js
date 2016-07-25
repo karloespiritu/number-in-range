@@ -7,7 +7,7 @@ const numberInRange = require('./index')
 console.log(numberInRange(2,0,20.4))
 
 
-test('should ', function(t) {
+test('should return correct boolean value', function(t) {
   t.plan(6)
   t.equal(true, numberInRange(0, 0), "test 1")
   t.equal(true, numberInRange(2, 5), "test 2")
