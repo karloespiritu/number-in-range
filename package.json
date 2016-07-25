@@ -1,6 +1,6 @@
 {
   "name": "number-in-range",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Test if a number is in range",
   "main": "index.js",
   "scripts": {
@@ -15,6 +15,7 @@
     "url": "http://karloespiritu.com"
   },
   "license": "MIT",
+  "repository": "karloespiritu/number-in-range",
   "devDependencies": {
     "eslint": "^3.1.1"
   },
