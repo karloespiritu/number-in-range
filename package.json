@@ -1,0 +1,25 @@
+{
+  "name": "int-in-range",
+  "version": "1.0.0",
+  "description": "Test if a number is in range",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "range"
+  ],
+  "author": {
+    "name": "Karlo Espiritu",
+    "email": "karloespiritu@gmail.com",
+    "url": "http://karloespiritu.com"
+  },
+  "license": "MIT",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^3.1.1"
+  },
+  "devDependencies": {
+    "tape": "^4.6.0"
+  }
+}
