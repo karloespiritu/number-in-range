@@ -1,4 +1,5 @@
-# number-in-range
+# number-in-range [![Build Status](https://travis-ci.org/karloespiritu/number-in-range.svg?branch=master)](https://travis-ci.org/karloespiritu/number-in-range)
+
 
 Test if a number is in range
 
@@ -20,6 +21,6 @@ numberInRange(6, 6, 60) // range = 6..60
 // => true
 
 numberInRange(6, 3); // range = 0..3
-//=> true
+// => true
 
 ```
