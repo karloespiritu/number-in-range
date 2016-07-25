@@ -1,5 +1,5 @@
 {
-  "name": "int-in-range",
+  "name": "number-in-range",
   "version": "1.0.0",
   "description": "Test if a number is in range",
   "main": "index.js",
