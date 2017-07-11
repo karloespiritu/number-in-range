@@ -2,10 +2,9 @@
   "env": {
     //remove either of the lines below if you don't need it
     //enable nodejs environment
-    "node": 1,
+    "node": true,
     //enable browser environment
-    "browser": 1,
-    "es6": 1
+    "browser": true
   },
   "globals": {
     //place settings for globals here, such as
@@ -15,8 +14,5 @@
     //enable ESLint rules, such as
     "eqeqeq": 1
   },
-  "plugins": [
-    //you can put plugins here
-  ],
   "extends": "eslint:recommended"
 }
